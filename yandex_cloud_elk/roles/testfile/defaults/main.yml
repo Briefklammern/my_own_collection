@@ -1,0 +1,5 @@
+#SPDX-License-Identifier: MIT-0
+---
+# defaults file for testfile
+path_env: "/tmp/testfile.txt"
+content_env: "Hello! I'm testfile!"

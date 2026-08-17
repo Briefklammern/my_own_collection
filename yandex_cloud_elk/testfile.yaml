@@ -1,0 +1,5 @@
+---
+- name: Создание файла
+  hosts: localhost
+  roles:
+    - testfile
